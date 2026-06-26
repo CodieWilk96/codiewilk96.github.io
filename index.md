@@ -5,3 +5,4 @@ Welcome to my portfolio. I build software tools, electronics devices, 3D printed
 ## Sections
 - [Software Projects](software/index.md)
 - [Hardware Projects](hardware/index.md)
+
