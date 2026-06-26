@@ -19,6 +19,9 @@ Each part of the diagnostics tool is built as an independent module, allowing th
 - [Thermistor Grid](thermistor-grid.md)  
   A matrix of precision thermistors that maps heat distribution across the device, revealing thermal runaway, cold zones, and component‑level failures.
 
+- [Hall Sensor Array](hall-sensor-array.md)
+  An array of analog and digital EM hall sensors strategically positioned throughout the cradles sensor grid. Their purpose is to detect EM signatures and send the data back to the brain to be analyzed.
+
 - [Brain Module](brain-module.md)  
   The central controller that reads sensor data, processes signals, and communicates with the UI. This module synchronizes all other modules.
 
